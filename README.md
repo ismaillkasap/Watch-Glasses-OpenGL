@@ -5,7 +5,7 @@ Project Instalation
 *The project was written using Dev-Cpp Integrated development environment.
 
 1- Download the glut library from the link below.
-http://altanmesut.trakya.edu.tr/grafik/glut-3.7.6-bin-32and64.zip
+https://github.com/ismaillkasap/glut-3.7.6
 
 2- Copy the glut64.dll and glut32.dll files to the C:\Windows\System32 folder
 
