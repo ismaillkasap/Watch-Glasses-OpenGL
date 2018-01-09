@@ -1,0 +1,11 @@
+Watch Glassess
+
+1. Bardak konumları değişken olarak atanacak (1.konum 2. konum .vs.)
+2. Bir değişken sürekli topun hangi konumda olduğunu takip edecek. (İlk değer random)
+3. Değiştirme zamanı değişkende tutulacak.
+
+4. Değişiklikler için random 2 sayı seçilecek.
+5. Küçük olan arkadan kaydır, büyük olan önden kaydır fonk. ile değiştirilecek.
+6. 5 ile 10 arasında random atanan bir sayı kadar iterasyon yapılacak.
+7. iterasyon sonunda bardak seç ve boşluğa bas.
+8. Doğru ise 10 adım devam, yanlış ise game over.
